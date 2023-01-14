@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ee1dafb.css",
+    "main.js": "/static/js/main.87e2639e.js",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.5d3841e2a6d1d6494dc6.woff",
+    "static/media/Roboto-Bold.woff": "/static/media/Roboto-Bold.8098dd8026f496a40c20.woff",
+    "static/media/Roboto-Regular.woff": "/static/media/Roboto-Regular.9fccf7bd3203da74e6c9.woff",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.48486aac860fcb14ad01.woff2",
+    "static/media/Roboto-Bold.woff2": "/static/media/Roboto-Bold.c4def6cfc0a0eb1b7b16.woff2",
+    "static/media/Roboto-Regular.woff2": "/static/media/Roboto-Regular.0c42724e8c48d0d4e9a8.woff2",
+    "static/media/OpenSans-Regular.woff": "/static/media/OpenSans-Regular.a2389eff2a625f0b8b07.woff",
+    "static/media/OpenSans-Regular.woff2": "/static/media/OpenSans-Regular.6a39c050da672f9f28e4.woff2",
+    "index.html": "/index.html",
+    "main.6ee1dafb.css.map": "/static/css/main.6ee1dafb.css.map",
+    "main.87e2639e.js.map": "/static/js/main.87e2639e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee1dafb.css",
+    "static/js/main.87e2639e.js"
+  ]
+}
