@@ -21,8 +21,6 @@ app.use('/api', router)
 app.use(errorHandler)
 
 app.get('/*', (req, res) => {
-  /* res.header('Access-Control-Allow-Origin', '*'); */
-  /* res.set('Access-Control-Allow-Credentials', true); */
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 })
 
